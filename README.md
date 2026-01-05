@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**Joshuaaustin-dev/Joshuaaustin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Who am I?-->
+I'm Josh, a full-stack engineer based in Utah, recently graduated with a degree in Computer Science from Weber State University, and looking for opportunities to get outside my comfort zone and grow.
 
-Here are some ideas to get you started:
+<!-- What am I working on? -->
+Looking to contribute to some open-source projects as well as continue working on a few personal projects I have:
+  - RON (A web scraper web extension with AI integration)
+  - A Recipe and food app to help users with allergies
+  - BitCrypt, a fun interactive game that will be coming soon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition, I teach a Web Development course with SLTech. If you are interested in learning web development and trying out our courses, contact me! 
+If you need a custom website for yourself or your business again, please contact me!
+
+
+<!-- What tools do I use? -->
+I primarily use the MERN (MongoDB, Express, React, Node) stack for development. I also have experience with other languages: Java, JavaScript, Python, C#, and PHP. I can also use WordPress to build sites.
+
+<!-- What am I currently learning? -->
+Here are some ways I'll be leveling up my skills in 2026
+
+Udemy Courses
+- AI Engineer Core Track 
+- Java Spring Framework 
+
+<!-- How to contact me? -->
