@@ -23,7 +23,9 @@ Here are some ways I'll be leveling up my skills in 2026
 
 Udemy Courses
 - AI Engineer Core Track 
-- Java Spring Framework 
+- Java Spring Framework
+
+I have goals to learn TypeScript, Next.js, and AWS for Cloud Computing this year!
 
 <!-- How to contact me? -->
 Contact me via my personal website at jaustin.netlify.app or through any social media account listed
